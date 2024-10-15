@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "@tooljet-plugins/common": "file:../common",
-    "knex": "^0.95.15",
-    "mysql2": "^3.6.0",
+    "knex": "^2.4.0",
+    "mysql2": "^3.9.8",
     "react": "^17.0.2",
     "rimraf": "^3.0.2"
   }
